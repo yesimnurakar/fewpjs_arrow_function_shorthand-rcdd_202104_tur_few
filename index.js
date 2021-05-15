@@ -1,5 +1,6 @@
 function divide(parameter1,parameter2) {
-return  parameter1/parameter2;
+  let division =  parameter1 / parameter2;
+return division;
 }
 divide(2000,100);
 
