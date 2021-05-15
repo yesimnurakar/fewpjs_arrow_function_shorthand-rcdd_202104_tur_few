@@ -5,4 +5,4 @@ let square = (param1) => param1 ** 2
 square(5);
 
 let add = (param1,param2) => param1 + param2
-console.log(add(5,12)) 
+add(2,8);
