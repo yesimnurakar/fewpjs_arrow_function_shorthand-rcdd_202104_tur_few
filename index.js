@@ -1,8 +1,7 @@
-function divide(parameter1,parameter2) {
-  let division =  parameter1 / parameter2;
-return division;
+function divide() {
+return 2000/100;
 }
-divide(2000,100);
+divide();
 
 let square = (param1) => param1 ** 2
 square(5);
