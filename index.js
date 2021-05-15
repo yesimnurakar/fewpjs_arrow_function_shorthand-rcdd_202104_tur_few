@@ -1,5 +1,5 @@
 let divide = (parameter1,parameter2) => parameter1 / parameter2
-divide(2000,100); //=> 5
+divide(2000,100);
 
 let square = (param1) => param1 ** 2
 square(5);
